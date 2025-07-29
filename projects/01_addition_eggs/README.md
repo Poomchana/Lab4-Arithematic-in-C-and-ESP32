@@ -84,6 +84,7 @@ int eggs_new_today = 3;       // เพิ่มเป็น 3 ฟอง
 int duck_eggs = 3;            // ไข่เป็ดที่แม่มี
 int total_all_eggs;           // ไข่ทั้งหมด (ไก่ + เป็ด)
 ```
+<img width="510" height="89" alt="Screenshot 2025-07-29 162334" src="https://github.com/user-attachments/assets/9d2e1b1f-b5c0-4fc2-b0d1-8d1793b34367" />
 
 แล้วเพิ่มการคำนวณหลังบรรทัด `total_eggs = eggs_already_have + eggs_new_today;`:
 ```c
@@ -100,6 +101,7 @@ ESP_LOGI(TAG, "🥚 ไข่ทั้งหมด (ไก่+เป็ด): %d 
 - 📚 หนังสือบนชั้น  
 - 🚗 รถในลานจอด
 - 🌟 ดาวในท้องฟ้า
+<img width="718" height="347" alt="Screenshot 2025-07-29 163001" src="https://github.com/user-attachments/assets/bc59661c-009c-45e6-9ca4-ee77ea195cea" />
 
 ### 🏆 เป้าหมาย:
 - [ ] เปลี่ยนจำนวนไข่ได้
